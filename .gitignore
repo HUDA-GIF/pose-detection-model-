@@ -1,0 +1,13 @@
+venv/
+.venv/
+fitness-pose-app/
+dist/
+build/
+*.spec
+*.exe
+*.task
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+test_install.py
